@@ -15,7 +15,7 @@
 
 ## About this repo 
 
-This is a repo for beginners to experience the path of open source contribution  
+This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests
   
 ## Students Instructions
 
@@ -25,11 +25,16 @@ Create a fork of this repo to your account.
 💡 search StackOverflow on how to Fork a repo in GitHub
 ```
 
-### Contribute
-Add your contribution to the repo by editing the contents of the folder with your campus name.
+### Clone the repo from your profile
 
 ```
-💡 Contact your campus lead for exact instructions
+💡 Search the internet or watch the shared video
+```
+
+### Create a file
+
+```
+💡 Now the repo is in your local directory. Open it in a text editor. Go to 'NSS College of Engineering' folder and create a file with your name, and a sweet content about who you are within it.
 ```
 
 ### Create a pull request
