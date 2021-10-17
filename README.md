@@ -51,9 +51,11 @@ After committing and pushing your changes go to your fork and create a pull requ
 
 ## Resources
 
-Use these resources to teach git and GitHub
+Use these resources to learn git and GitHub
 
 - [Learn git concepts, not commands - DEV Community](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- [git and github session by Tinkerhub NSSCE](https://www.youtube.com/watch?v=HuKskPmxhy8&t=2s)
+
 
 ## Contact points:
 - Campus lead: Darshan- https://wa.me/917736594345
