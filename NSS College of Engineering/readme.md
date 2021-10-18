@@ -34,8 +34,12 @@ Create a fork of this repo to your account.
 ```
 💡 Now the repo is in your local directory.
 Open it in a text editor. 
+```
+```
 Go to 'NSS College of Engineering' folder and create a file with your name, and add a sweet content about who you are within it.
 ```
+
+! Note that this repository is intended only for students of NSS College of Engineering
 
 ### Step4: Commit and push your file to your own repo
 
