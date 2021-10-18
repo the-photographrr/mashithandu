@@ -6,7 +6,7 @@
 ## Table of contents
 
 - [About this repo](#about-this-repo)
-- [Students Instructions](#students-instructions)
+- [Instructions](#instructions)
 
 - [Resources](#resources)
 - [Contact](#Contact-points)
@@ -15,7 +15,7 @@
 
 This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests
   
-## Students Instructions
+## Instructions
 
 ###  Step1: Fork this repo
 Create a fork of this repo to your account.
