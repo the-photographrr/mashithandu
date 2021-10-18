@@ -57,7 +57,13 @@ Use these resources to learn git and GitHub
 - [git and github session by Tinkerhub NSSCE](https://www.youtube.com/watch?v=HuKskPmxhy8&t=2s)
 
 
+## Learn more about Mashithandu and Vidyarambham
+- https://tiny.cc/hacktoberfest
+
+
 ## Contact points:
-- Campus lead: Darshan- https://wa.me/917736594345
-- Tech lead: Gayathri- https://wa.me/919207853788
+- Discord: [Join us](https://discord.gg/K3S9u42FKN)
+- Campus lead: [Darshan](https://wa.me/917736594345) 
+- Tech lead: [Gayathri](https://wa.me/919207853788)
 - Write to us at tinkerhubnssce@gmail.com
+
