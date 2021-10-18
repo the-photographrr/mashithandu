@@ -13,7 +13,13 @@
 
 ## About this repo 
 
-This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests
+This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests.
+- Create a file ('your_name.txt') in the folder 'NSS College of Engineering' and give a sweet content about yourself in it.
+- You can also try to create a code in your preffered language to display your content (Should be named 'yourname.filetype')
+
+``` 
+💡 It's cool to show about yourself using code! Ain't it?
+```
   
 ## Instructions
 
@@ -34,6 +40,8 @@ Create a fork of this repo to your account.
 ```
 💡 Now the repo is in your local directory.
 Open it in a text editor. 
+```
+```
 Go to 'NSS College of Engineering' folder and create a file with your name, and add a sweet content about who you are within it.
 ```
 
@@ -63,7 +71,6 @@ Use these resources to learn git and GitHub
 
 ## Contact points:
 - Discord: [Join us](https://discord.gg/K3S9u42FKN)
-- Campus lead: [Darshan](https://wa.me/917736594345) 
-- Tech lead: [Gayathri](https://wa.me/919207853788)
+- Campus lead: [Darshan S](https://wa.me/917736594345) 
+- Tech lead: [Gayathri Sivakumar Menon](https://wa.me/919207853788)
 - Write to us at tinkerhubnssce@gmail.com
-
