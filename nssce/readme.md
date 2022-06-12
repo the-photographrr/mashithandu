@@ -6,16 +6,22 @@
 ## Table of contents
 
 - [About this repo](#about-this-repo)
-- [Students Instructions](#students-instructions)
+- [Instructions](#instructions)
 
 - [Resources](#resources)
 - [Contact](#Contact-points)
 
 ## About this repo 
 
-This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests
+This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests.
+- Create a file ('your_name.txt') in the folder 'NSS College of Engineering' and give a sweet content about yourself in it.
+- You can also try to create a code in your preffered language to display your content (Should be named 'yourname.filetype')
+
+``` 
+💡 It's cool to show about yourself using code! Ain't it?
+```
   
-## Students Instructions
+## Instructions
 
 ###  Step1: Fork this repo
 Create a fork of this repo to your account.
@@ -39,8 +45,6 @@ Open it in a text editor.
 Go to 'NSS College of Engineering' folder and create a file with your name, and add a sweet content about who you are within it.
 ```
 
-! Note that this repository is intended only for students of NSS College of Engineering
-
 ### Step4: Commit and push your file to your own repo
 
 ```
@@ -61,7 +65,12 @@ Use these resources to learn git and GitHub
 - [git and github session by Tinkerhub NSSCE](https://www.youtube.com/watch?v=HuKskPmxhy8&t=2s)
 
 
+## Learn more about Mashithandu and Vidyarambham
+- https://tiny.cc/hacktoberfest
+
+
 ## Contact points:
-- Campus lead: Darshan- https://wa.me/917736594345
-- Tech lead: Gayathri- https://wa.me/919207853788
+- Discord: [Join us](https://discord.gg/K3S9u42FKN)
+- Campus lead: [Darshan S](https://wa.me/917736594345) 
+- Tech lead: [Gayathri Sivakumar Menon](https://wa.me/919207853788)
 - Write to us at tinkerhubnssce@gmail.com

@@ -1,4 +1,4 @@
-# Mashithandu
+# mashithandu
 
 ![mashithandu](https://github.com/tinkerhub-org/mashithandu/blob/main/resources/rajesh-mashithandu.jpg)
 
@@ -6,71 +6,90 @@
 ## Table of contents
 
 - [About this repo](#about-this-repo)
-- [Instructions](#instructions)
-
+- [Students Instructions](#students-instructions)
+  - [For this repo](#for-this-repo)
+  - [Contribute](#contribute)
+  - [Create a pull request](#create-a-pull-request)
+- [Campus Instructions](#campus-instructions)
+  - [Create a GitHub organization for your chapter if it doesn't exist.](#create-a-github-organization-for-your-chapter-if-it-doesnt-exist)
+  - [Fork this repo to your organization](#fork-this-repo-to-your-organization)
+  - [Create a folder](#create-a-folder)
+  - [Lock main branch](#lock-main-branch)
+  - [Teach git and GitHub](#teach-git-and-github)
+  - [Ask Students to do their first contribution](#ask-students-to-do-their-first-contribution)
+  - [Review the PRs](#review-the-prs)
+  - [Occasionally send PRs to the repo in TinkerHub Org](#occasionally-send-prs-to-the-repo-in-tinkerhub-org)
 - [Resources](#resources)
-- [Contact](#Contact-points)
 
 ## About this repo 
 
-This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests.
-- Create a file ('your_name.txt') in the folder 'NSS College of Engineering' and give a sweet content about yourself in it.
-- You can also try to create a code in your preffered language to display your content (Should be named 'yourname.filetype')
-
-``` 
-💡 It's cool to show about yourself using code! Ain't it?
-```
+This is a repo for beginners to experience the path of open source contribution  
   
-## Instructions
+## Students Instructions
 
-###  Step1: Fork this repo
+###  For this repo
 Create a fork of this repo to your account.
 ``` 
-💡 Click on the Fork button on the top right of the screen
+💡 search StackOverflow on how to Fork a repo in GitHub
 ```
 
-### Step2: Clone the repo from your profile
+### Contribute
+Add your contribution to the repo by editing the contents of the folder with your campus name.
 
 ```
-💡 Search the internet or watch the shared video
-```
-
-### Step3: Create a file
-
-```
-💡 Now the repo is in your local directory.
-Open it in a text editor. 
-```
-```
-Go to 'NSS College of Engineering' folder and create a file with your name, and add a sweet content about who you are within it.
-```
-
-### Step4: Commit and push your file to your own repo
-
-```
-git add Yourname.txt
-git commit -m "commit by <Your Name> "
-git push -u origin main
+💡 Contact your campus lead for exact instructions
 ```
 
 ### Create a pull request
 
-After committing and pushing your changes go to your fork and create a pull request to Tinkerhub NSSCE's mashithandu repo. Make sure you give a good title and description for your pull request.
+After committing and pushing your changes go to your fork and create a pull request to your org's repo ( the repo from where you initially forked ). Make sure you give a good title and description for your pull request.
+
+## Campus Instructions
+
+### Create a GitHub organization for your chapter if it doesn't exist.
+
+- Use `TinkerHub-<college name short>` as organisation name
+- Use campus chapter logo as org profile logo.
+
+### Fork this repo to your organization
+```
+💡Students from your campus will do PRs to that repo
+```
+### Create a folder
+
+- Create a folder with your college name.
+- Add a README.md in it so it can be committed to GitHub.
+
+### Lock main branch
+
+Go to settings and set push to the main branch only after review
+
+### Teach git and GitHub 
+
+- Use resources below to teach students git and GitHub
+
+### Ask Students to do their first contribution
+
+- Tell them to follow the instructions in the main readme of the repo.
+- When contributing you can either choose to ask students to append their names to a single file or let them create a new file for each one of them. If you can think of something more innovative feel free to try it out.
+
+>**⚠️ Make sure all changes made by your members are contained within your
+>  campus folder. Any changes outside it may disqualify the entire
+>   college.**
+
+
+### Review the PRs
+
+- Review the PRs and merge.
+- Assign students as maintainers routinely to do the reviews and PRs.
+
+### Occasionally send PRs to the repo in TinkerHub Org
+
+- Send PRs to the repo [Mashithandu](https://github.com/tinkerhub/mashithandu) 
+
 
 ## Resources
 
-Use these resources to learn git and GitHub
+Use these resources to teach git and GitHub
 
 - [Learn git concepts, not commands - DEV Community](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
-- [git and github session by Tinkerhub NSSCE](https://www.youtube.com/watch?v=HuKskPmxhy8&t=2s)
-
-
-## Learn more about Mashithandu and Vidyarambham
-- https://tiny.cc/hacktoberfest
-
-
-## Contact points:
-- Discord: [Join us](https://discord.gg/K3S9u42FKN)
-- Campus lead: [Darshan S](https://wa.me/917736594345) 
-- Tech lead: [Gayathri Sivakumar Menon](https://wa.me/919207853788)
-- Write to us at tinkerhubnssce@gmail.com
