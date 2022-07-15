@@ -73,7 +73,7 @@ $ git version 2.32.0.windows.1
 ```markdown
 This branch is X commits ahead of Tinkerhub-NSSCE:main **Contribute**
 ```
-Click on `Contribute` > `Open pull request`, add an appropriate title and decription and finally click `create pull request`
+Click on `Contribute` > `Open pull request` > `Create pull request`, add an appropriate title and description and finally click `create pull request`
 <br>
 
 ## What next?
