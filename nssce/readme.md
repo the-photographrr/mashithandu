@@ -1,76 +1,91 @@
-# Mashithandu
-
-![mashithandu](https://github.com/tinkerhub-org/mashithandu/blob/main/resources/rajesh-mashithandu.jpg)
-
+![banner-monochrome-white](https://user-images.githubusercontent.com/78845005/179267771-317a24ea-1e66-49db-bc91-41c1e31d7307.png#gh-dark-mode-only)
+![banner-monochrome-black](https://user-images.githubusercontent.com/78845005/179267889-6e64d5c5-bd87-4aee-a981-16df483193a8.png#gh-light-mode-only)
 
 ## Table of contents
 
-- [About this repo](#about-this-repo)
-- [Instructions](#instructions)
-
-- [Resources](#resources)
-- [Contact](#Contact-points)
+| S.No | Content |
+|----|----|
+| 1. | [About this repo](#about-this-repo) |
+| 2. | [Instructions](#instructions) |
+| 3. | [What next?](#what-next) |
+| 4. | [Resources](#resources) |
+| 5. | [Contact](#contact-points) |
 
 ## About this repo 
 
-This is a repo for beginners to experience the path of open source contribution and to learn creating pull requests.
-- Create a file ('your_name.txt') in the folder 'NSS College of Engineering' and give a sweet content about yourself in it.
-- You can also try to create a code in your preffered language to display your content (Should be named 'yourname.filetype')
+This is a repo for beginners to experience the path of open source contributions and to learn creating pull requests. If you are already have some experience with git and github, here's what you need to do (if not head to Instructions section)
+- Create a file _**your_name.txt**_ in the `nssce` folder and give a sweet introduction about yourself in it.
+- Wanna take it a step further? Try creating a file in your preffered programming language which on execution displays your content (Should be named _**your_name.filetype**_)
 
 ``` 
-💡 It's cool to show about yourself using code! Ain't it?
+💡 It's cool to express yourself using code! Ain't it?
 ```
   
 ## Instructions
 
-###  Step1: Fork this repo
+**Step 1:** Create a Github account if you haven't already, head to [Sign Up](https://github.com/signup)
+
+**Step 2:** Fork this repo
 Create a fork of this repo to your account.
 ``` 
 💡 Click on the Fork button on the top right of the screen
 ```
 
-### Step2: Clone the repo from your profile
-
-```
-💡 Search the internet or watch the shared video
-```
-
-### Step3: Create a file
-
-```
-💡 Now the repo is in your local directory.
-Open it in a text editor. 
-```
-```
-Go to 'NSS College of Engineering' folder and create a file with your name, and add a sweet content about who you are within it.
+**Step 3:** Install git on your PC if you haven't already, head to the [Git Downloads Page](https://git-scm.com/downloads)
+``` 
+💡 Installers and Instructions for all major OS is available on the same page
 ```
 
-### Step4: Commit and push your file to your own repo
-
+**Step 4:** Fire up your terminal/cmd and type `git --version`, if it displays something like below it means git has been succesfully installed in your system
 ```
-git add Yourname.txt
-git commit -m "commit by <Your Name> "
-git push -u origin main
+$ git version 2.32.0.windows.1
 ```
 
-### Create a pull request
+**Step 5:** Setup git config variables, this is a one-time process. Run the following commands
 
-After committing and pushing your changes go to your fork and create a pull request to Tinkerhub NSSCE's mashithandu repo. Make sure you give a good title and description for your pull request.
+`git config --global user.name "Your Name"` <br>
+`git config --global user.email yourname@example.com`
+
+**Step 6:** Navigate to your preferred location on your PC and clone the forked repo from your profile. Run the following command with your appropriate link
+
+`git clone <your forked repo link>`
+
+**Step 7:** Now that you have a local copy of the repository, try opening the folder using your preferred code editor
+
+**Step 8:** Create a new file inside the `nssce` folder and name it _**your_name.txt**_ (or _**your_name.filtype**_ incase you're using code)
+```
+⚠️ Make sure you don't make any changes outside the 'nssce' folder
+```
+
+**Step 9:** Now simply write down a few lines about yourself in the new file, tell us who you are in the most creative way possible
+
+**Step 10:** Now get back to your terminal, make sure your inside the repository folder and commit and push the new changes to your own forked repository
+
+`git add .` <br>
+`git commit -m "commit by <YOUR_NAME>"` <br>
+`git push -u origin main`
+
+**Step 11:** Head to your github forked repository. You must see a message saying..
+```markdown
+This branch is X commits ahead of Tinkerhub-NSSCE:main **Contribute**
+```
+Click on `Contribute` > `Compare and pull request`, add an appropriate title and decription and finally click `create pull request`
+<br>
+
+## What next?
+If everything goes fine, we will review and approve your pull request and once accepted, Voila🎉 you just got your first pull request merged.
 
 ## Resources
+Some amazing resources which you might find useful to get started and explore further about git and github
 
-Use these resources to learn git and GitHub
+If you prefer
+- A hands-on and interactive tutorial [click here](https://gitimmersion.com)
+- A more in-depth look into the working of git [click here](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- A video tutorial [click here](https://youtu.be/HuKskPmxhy8)
+- Or maybe a quick and crisp cheatsheet [click here](https://betterprogramming.pub/basic-git-github-cheat-sheet-fa020831cb35)
 
-- [Learn git concepts, not commands - DEV Community](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
-- [git and github session by Tinkerhub NSSCE](https://www.youtube.com/watch?v=HuKskPmxhy8&t=2s)
-
-
-## Learn more about Mashithandu and Vidyarambham
-- https://tiny.cc/hacktoberfest
-
-
-## Contact points:
-- Discord: [Join us](https://discord.gg/K3S9u42FKN)
-- Campus lead: [Darshan S](https://wa.me/917736594345) 
-- Tech lead: [Gayathri Sivakumar Menon](https://wa.me/919207853788)
+## Contact points
+- Discord: [Join us](https://discord.gg/2bBPbdRud6)
+- Campus lead: [Ananya Sreeram](https://wa.me/918279143974) 
+- Tech lead: [Aravind S](https://wa.me/919496175003)
 - Write to us at tinkerhubnssce@gmail.com
