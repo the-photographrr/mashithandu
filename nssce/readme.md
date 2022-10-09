@@ -1,7 +1,6 @@
 &nbsp;
-
-![banner-monochrome-white](https://user-images.githubusercontent.com/78845005/179267771-317a24ea-1e66-49db-bc91-41c1e31d7307.png#gh-dark-mode-only)
-![banner-monochrome-black](https://user-images.githubusercontent.com/78845005/179284287-f167e309-9028-4309-8cd4-c9d57bafd7f6.png#gh-light-mode-only)
+![banner-monochrome-white](https://user-images.githubusercontent.com/78845005/194773622-19635ddc-9de7-48ae-aa3d-29c765b935d5.png#gh-dark-mode-only)
+![banner-monochrome-black](https://user-images.githubusercontent.com/78845005/194773628-5230b78f-159a-4bbe-b000-78fb81782048.png#gh-light-mode-only)
 
 <br>
 
