@@ -93,3 +93,5 @@ Go to settings and set push to the main branch only after review
 Use these resources to teach git and GitHub
 
 - [Learn git concepts, not commands - DEV Community](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
+liz
